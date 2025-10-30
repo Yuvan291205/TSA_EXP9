@@ -1,4 +1,4 @@
-<img width="850" height="547" alt="download" src="https://github.com/user-attachments/assets/f8a53048-1927-4ad7-a44b-ded475bbe946" /># EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
+# EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
 ### Date: 30.10.2025
 
 ### AIM:
